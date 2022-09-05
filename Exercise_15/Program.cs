@@ -11,7 +11,7 @@ if ((a > 0) && (a < 6))
 {
     Console.Write($"{a} -> нет");
 }
-else if (a == 6 | a < 8)
+else if (a == 6 | a == 7)
 {
     Console.Write($"{a} -> да");
 }
